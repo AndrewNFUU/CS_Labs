@@ -1,0 +1,10 @@
+C:\Users\Користувач\source\repos\Lab10_matrix\Lab10_matrix\bin\Debug\Lab10_matrix.exe.config
+C:\Users\Користувач\source\repos\Lab10_matrix\Lab10_matrix\bin\Debug\Lab10_matrix.exe
+C:\Users\Користувач\source\repos\Lab10_matrix\Lab10_matrix\bin\Debug\Lab10_matrix.pdb
+C:\Users\Користувач\source\repos\Lab10_matrix\Lab10_matrix\obj\Debug\Lab10_matrix.csproj.AssemblyReference.cache
+C:\Users\Користувач\source\repos\Lab10_matrix\Lab10_matrix\obj\Debug\Lab10_matrix.Form1.resources
+C:\Users\Користувач\source\repos\Lab10_matrix\Lab10_matrix\obj\Debug\Lab10_matrix.Properties.Resources.resources
+C:\Users\Користувач\source\repos\Lab10_matrix\Lab10_matrix\obj\Debug\Lab10_matrix.csproj.GenerateResource.cache
+C:\Users\Користувач\source\repos\Lab10_matrix\Lab10_matrix\obj\Debug\Lab10_matrix.csproj.CoreCompileInputs.cache
+C:\Users\Користувач\source\repos\Lab10_matrix\Lab10_matrix\obj\Debug\Lab10_matrix.exe
+C:\Users\Користувач\source\repos\Lab10_matrix\Lab10_matrix\obj\Debug\Lab10_matrix.pdb

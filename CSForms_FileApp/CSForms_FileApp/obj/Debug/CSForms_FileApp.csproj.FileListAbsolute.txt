@@ -1,0 +1,13 @@
+C:\Users\Користувач\source\repos\CSForms_FileApp\CSForms_FileApp\bin\Debug\CSForms_FileApp.exe.config
+C:\Users\Користувач\source\repos\CSForms_FileApp\CSForms_FileApp\bin\Debug\CSForms_FileApp.exe
+C:\Users\Користувач\source\repos\CSForms_FileApp\CSForms_FileApp\bin\Debug\CSForms_FileApp.pdb
+C:\Users\Користувач\source\repos\CSForms_FileApp\CSForms_FileApp\obj\Debug\CSForms_FileApp.csproj.AssemblyReference.cache
+C:\Users\Користувач\source\repos\CSForms_FileApp\CSForms_FileApp\obj\Debug\CSForms_FileApp.Properties.Resources.resources
+C:\Users\Користувач\source\repos\CSForms_FileApp\CSForms_FileApp\obj\Debug\CSForms_FileApp.csproj.GenerateResource.cache
+C:\Users\Користувач\source\repos\CSForms_FileApp\CSForms_FileApp\obj\Debug\CSForms_FileApp.csproj.CoreCompileInputs.cache
+C:\Users\Користувач\source\repos\CSForms_FileApp\CSForms_FileApp\obj\Debug\CSForms_FileApp.exe
+C:\Users\Користувач\source\repos\CSForms_FileApp\CSForms_FileApp\obj\Debug\CSForms_FileApp.pdb
+C:\Users\Користувач\source\repos\CSForms_FileApp\CSForms_FileApp\obj\Debug\CSForms_FileApp.OperationSelect.resources
+C:\Users\Користувач\source\repos\CSForms_FileApp\CSForms_FileApp\obj\Debug\CSForms_FileApp.AddFile.resources
+C:\Users\Користувач\source\repos\CSForms_FileApp\CSForms_FileApp\obj\Debug\CSForms_FileApp.CheckFiles.resources
+C:\Users\Користувач\source\repos\CSForms_FileApp\CSForms_FileApp\obj\Debug\CSForms_FileApp.EditFile.resources

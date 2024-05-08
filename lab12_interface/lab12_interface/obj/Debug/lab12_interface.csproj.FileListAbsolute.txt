@@ -1,0 +1,10 @@
+C:\Users\Користувач\source\repos\lab12_interface\lab12_interface\bin\Debug\lab12_interface.exe.config
+C:\Users\Користувач\source\repos\lab12_interface\lab12_interface\bin\Debug\lab12_interface.exe
+C:\Users\Користувач\source\repos\lab12_interface\lab12_interface\bin\Debug\lab12_interface.pdb
+C:\Users\Користувач\source\repos\lab12_interface\lab12_interface\obj\Debug\lab12_interface.csproj.AssemblyReference.cache
+C:\Users\Користувач\source\repos\lab12_interface\lab12_interface\obj\Debug\lab12_interface.frmCalculator.resources
+C:\Users\Користувач\source\repos\lab12_interface\lab12_interface\obj\Debug\lab12_interface.Properties.Resources.resources
+C:\Users\Користувач\source\repos\lab12_interface\lab12_interface\obj\Debug\lab12_interface.csproj.GenerateResource.cache
+C:\Users\Користувач\source\repos\lab12_interface\lab12_interface\obj\Debug\lab12_interface.csproj.CoreCompileInputs.cache
+C:\Users\Користувач\source\repos\lab12_interface\lab12_interface\obj\Debug\lab12_interface.exe
+C:\Users\Користувач\source\repos\lab12_interface\lab12_interface\obj\Debug\lab12_interface.pdb

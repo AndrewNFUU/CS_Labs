@@ -1,0 +1,10 @@
+C:\Users\Користувач\source\repos\lab11_strings\lab11_strings\bin\Debug\lab11_strings.exe.config
+C:\Users\Користувач\source\repos\lab11_strings\lab11_strings\bin\Debug\lab11_strings.exe
+C:\Users\Користувач\source\repos\lab11_strings\lab11_strings\bin\Debug\lab11_strings.pdb
+C:\Users\Користувач\source\repos\lab11_strings\lab11_strings\obj\Debug\lab11_strings.csproj.AssemblyReference.cache
+C:\Users\Користувач\source\repos\lab11_strings\lab11_strings\obj\Debug\lab11_strings.Properties.Resources.resources
+C:\Users\Користувач\source\repos\lab11_strings\lab11_strings\obj\Debug\lab11_strings.csproj.GenerateResource.cache
+C:\Users\Користувач\source\repos\lab11_strings\lab11_strings\obj\Debug\lab11_strings.csproj.CoreCompileInputs.cache
+C:\Users\Користувач\source\repos\lab11_strings\lab11_strings\obj\Debug\lab11_strings.exe
+C:\Users\Користувач\source\repos\lab11_strings\lab11_strings\obj\Debug\lab11_strings.pdb
+C:\Users\Користувач\source\repos\lab11_strings\lab11_strings\obj\Debug\lab11_strings.frmCalculator.resources

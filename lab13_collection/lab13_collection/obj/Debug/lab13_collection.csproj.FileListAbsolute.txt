@@ -1,0 +1,10 @@
+C:\Users\Користувач\source\repos\lab13_collection\lab13_collection\obj\Debug\lab13_collection.csproj.AssemblyReference.cache
+C:\Users\Користувач\source\repos\lab13_collection\lab13_collection\obj\Debug\lab13_collection.frmStart.resources
+C:\Users\Користувач\source\repos\lab13_collection\lab13_collection\obj\Debug\lab13_collection.Properties.Resources.resources
+C:\Users\Користувач\source\repos\lab13_collection\lab13_collection\obj\Debug\lab13_collection.csproj.GenerateResource.cache
+C:\Users\Користувач\source\repos\lab13_collection\lab13_collection\obj\Debug\lab13_collection.csproj.CoreCompileInputs.cache
+C:\Users\Користувач\source\repos\lab13_collection\lab13_collection\bin\Debug\lab13_collection.exe.config
+C:\Users\Користувач\source\repos\lab13_collection\lab13_collection\bin\Debug\lab13_collection.exe
+C:\Users\Користувач\source\repos\lab13_collection\lab13_collection\bin\Debug\lab13_collection.pdb
+C:\Users\Користувач\source\repos\lab13_collection\lab13_collection\obj\Debug\lab13_collection.exe
+C:\Users\Користувач\source\repos\lab13_collection\lab13_collection\obj\Debug\lab13_collection.pdb

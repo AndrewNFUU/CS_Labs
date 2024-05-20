@@ -1,0 +1,11 @@
+C:\Users\Користувач\source\repos\lab14_files\lab14_files\bin\Debug\lab14_files.exe.config
+C:\Users\Користувач\source\repos\lab14_files\lab14_files\bin\Debug\lab14_files.exe
+C:\Users\Користувач\source\repos\lab14_files\lab14_files\bin\Debug\lab14_files.pdb
+C:\Users\Користувач\source\repos\lab14_files\lab14_files\obj\Debug\lab14_files.csproj.AssemblyReference.cache
+C:\Users\Користувач\source\repos\lab14_files\lab14_files\obj\Debug\lab14_files.Properties.Resources.resources
+C:\Users\Користувач\source\repos\lab14_files\lab14_files\obj\Debug\lab14_files.csproj.GenerateResource.cache
+C:\Users\Користувач\source\repos\lab14_files\lab14_files\obj\Debug\lab14_files.csproj.CoreCompileInputs.cache
+C:\Users\Користувач\source\repos\lab14_files\lab14_files\obj\Debug\lab14_files.exe
+C:\Users\Користувач\source\repos\lab14_files\lab14_files\obj\Debug\lab14_files.pdb
+C:\Users\Користувач\source\repos\lab14_files\lab14_files\obj\Debug\lab14_files.AddEmployee.resources
+C:\Users\Користувач\source\repos\lab14_files\lab14_files\obj\Debug\lab14_files.Form1.resources
